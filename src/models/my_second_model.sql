@@ -1,6 +1,6 @@
 {#
 
-⚠️ test tssYou can only preview this model after `my_first_model` has been materialized
+⚠️ test You can only preview this model after `my_first_model` has been materialized
 
 ✅ Reference models with ref('<model_name>')
 ✅ Reference sources with source('<source_name>','<table_name>')
