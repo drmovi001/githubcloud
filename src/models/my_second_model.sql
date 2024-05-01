@@ -1,6 +1,6 @@
 {#
 
-⚠️ test test test You can test only preview this model after `my_first_model` has been materialized
+⚠️ test test test test You can test only preview this model after `my_first_model` has been materialized
 
 ✅ Reference models with ref('<model_name>')
 ✅ Reference sources with source('<source_name>','<table_name>')
